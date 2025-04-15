@@ -485,7 +485,7 @@ footer {
         content: '';
         top: 0;
         bottom: 0;
-        left: 303px;
+        left: 200px;
         right: auto;
         height: 100%;
         width: 3px;
@@ -501,12 +501,12 @@ footer {
         background: $base-color;
         background: linear-gradient(to bottom, $base-color, rgba($base-color, 0));
         top: 100%;
-        left: 303px;
+        left: 200px;
     }
 }
 
 .vtimeline-content {
-    margin-left: 350px;
+    margin-left: 247px;
     background: #fff;
     border: 1px solid #e6e6e6;
     padding: 15px;
@@ -551,7 +551,7 @@ footer {
     border-radius: 50%;
     float: left;
     z-index: 99;
-    margin-left: 280px;
+    margin-left: 177px;
 
     i {
         display: block;
